@@ -1,2 +1,2 @@
-FROM louislam/uptime-kuma:latest
+FROM louislam/uptime-kuma
 EXPOSE 3001
