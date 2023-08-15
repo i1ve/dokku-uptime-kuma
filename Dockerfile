@@ -1,1 +1,1 @@
-FROM louislam/uptime-kuma:latest
+FROM louislam/uptime-kuma:beta
